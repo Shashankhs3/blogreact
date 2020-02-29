@@ -1,0 +1,28 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: courier new;
+    color: white;
+  }
+  .bodywrap {
+    color: white;
+    height: 700px;
+    margin-top: -35px;
+    text-align: center;
+    font-family: Calibri;
+    background-image: url("http://www.sitea.se/wp-content/uploads/2017/06/Blue-Wallpaper-Store-Blue-gradient-wallpaper.jpg");
+    background-position: center;
+  }
+  h2 {
+      font-family: Courier New;
+  }
+  h4 {
+    text-decoration: underline;
+  }
+  p{
+      font-size: 20px;
+  }
+  
+  
